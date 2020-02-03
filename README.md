@@ -1,2 +1,2 @@
-# Smaash-Arduino-Processing-
- An interactive multiplayer game using Arduino and Processing. ​ Smaash ​ Smaash is a multiplayer interactive, fast moving game made using Processing and Arduino controlled using human gestures. It is game which involves using hammers and hitting the hammer on the target where the LED lights up.It also takes care if the orientation of the hammer is in sync with the color of the LED that lights up.Its has an aesthetic design.The touch of the hammer was detected by Piezo sensor and the orientation by the Gyro sensor.
+# PIS_smaash
+PIS Minor Project
